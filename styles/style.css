@@ -91,4 +91,7 @@ body{
         margin-top: 10%;
         zoom: 70%;
     }
+    #gamerOver{
+        font-size: 30px;
+    }
 }
