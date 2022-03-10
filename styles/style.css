@@ -84,3 +84,11 @@ body{
     grid-template: 1fr 1fr 1fr 1fr 1fr / 1fr 1fr 1fr 1fr;
     gap: 20px;
 }
+
+@media only screen and (max-width: 768px){
+
+    body{
+        margin-top: 10%;
+        zoom: 70%;
+    }
+}
