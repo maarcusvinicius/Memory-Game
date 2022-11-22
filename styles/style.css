@@ -10,7 +10,7 @@ body{
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: #c7cdd3;
+    background-image: url('/assets/background.png');
 }
 
 .card{
@@ -40,13 +40,13 @@ body{
 
 .card_front{
     transform: rotateY(180deg);
-    background-color: #101c2c;
+    background-color: #620a22;
 
 }
 
 .card_back{
     color: #101c2c;
-    background-color: #05c3ff;
+    background-color: #ffffff;
     font-size: 30px;
     /*display: none;*/
 }
@@ -70,9 +70,10 @@ body{
 }
 
 #restart{
+    color: white;
     padding: 20px;
     font-size: 20px;
-    background-color: yellow;
+    background-color: #620a22;
     border: none;
     border-radius: 10px;
     margin-top: 10px;
