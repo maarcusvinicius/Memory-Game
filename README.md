@@ -18,8 +18,8 @@
 
 <div id="layout" align="center">
   <p align="stretch">
-    <img align="center" width="45%" alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/Screenshottt_Web_1.png">
-    <img align="center" width="45%" alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/Screenshottt_Web_2.png">
+    <img align="center" width="45%" alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/yScreenshottt_Web_2.png">
+    <img align="center" width="45.5%" alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/yScreenshottt_Web_1.png">
   </p>
 </div>
 
