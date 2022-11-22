@@ -43,7 +43,11 @@ function createCardFace(face, card, element) {
         iconElement.src = "./assets/" + card.icon + ".png"
         cardElementFace.appendChild(iconElement);
     } else {
-        cardElementFace.innerHTML = "&lt/&gt"
+
+        let iconElement = document.createElement('img');
+        iconElement.classList.add(ICON);
+        iconElement.src = "./assets/logo.png"
+        cardElementFace.appendChild(iconElement);
     }
     element.appendChild(cardElementFace)
 }
