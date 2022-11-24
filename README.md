@@ -3,7 +3,6 @@
 <p align="center">🔥 O clássico jogo da memória! Uma ótima aplicação</br>que melhora seu tempo de memória!</p>
 
 <p align="center">
- <a href="#-executar">Como executar</a> •
  <a href="#-tecnologias">Tecnologias</a> •
  <a href="#-projeto">Projeto</a> • 
  <a href="#-objetivo">Objetivo</a> • 
@@ -26,25 +25,6 @@
 <br />
 
 Teste você mesmo!!🔎 https://maarcusvinicius.github.io/MemoryGame/
-
-<br />
-
-## 🚀 Como executar
-
-Clone o repositório e acesse a pasta.
-
-```bash
-$ git clone https://github.com/maarcusvinicius/MemoryGame.git
-
-Para iniciar o projeto:
-
-# Instalar as dependências
-$ npm install / yarn
-
-# Iniciar o projeto
-$ npm run / yarn run
-```
-A aplicação pode ser acessada em [`localhost:#`](http://localhost:#).
 
 <br />
 
