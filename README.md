@@ -1,13 +1,15 @@
 <h1 align="center">Memory Game 🃏</h1>
 
-<p align="center">🔥 O clássico jogo da memória! Uma ótima aplicação</br>que melhora seu tempo de memória!</p>
+<p align="left">🔥 The classic memory game! A great application that improves your memory time!
 
-<p align="center">
- <a href="#-executar">Como executar</a> •
- <a href="#-tecnologias">Tecnologias</a> •
- <a href="#-projeto">Projeto</a> • 
- <a href="#-objetivo">Objetivo</a> • 
-  <a href="#-roadmap">Roadmap</a>
+<br />
+
+The project that simulates the classic memory game in a web application. This fun and challenging game is ideal for improving your memory and concentration skills. In Memory Game you will have the opportunity to win with amazing animations and restart the game to challenge your memory again.
+
+<br />
+
+The images used in the game represent the countries participating in the 2022 World Cup, providing a thematic and immersive experience for players.
+
 </p>
 
 <br />
@@ -25,32 +27,23 @@
 
 <br />
 
-Teste você mesmo!!🔎 https://maarcusvinicius.github.io/MemoryGame/
+Test yourself!!🔎 https://maarcusvinicius.github.io/MemoryGame/
 
 <br />
 
-## 🚀 Como executar
+## 🎡 Functionalities
 
-Clone o repositório e acesse a pasta.
+- Memory game with shuffled cards.
 
-```bash
-$ git clone https://github.com/maarcusvinicius/MemoryGame.git
+- Animations to highlight correct and incorrect cards.
 
-Para iniciar o projeto:
-
-# Instalar as dependências
-$ npm install / yarn
-
-# Iniciar o projeto
-$ npm run / yarn run
-```
-A aplicação pode ser acessada em [`localhost:#`](http://localhost:#).
+- Option to restart the game to challenge the memory again.
 
 <br />
 
-## 🔧 Tecnologias
+## 🔧 Resources used
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+This project was developed with the following resources and technologies:
 
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
@@ -58,40 +51,48 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 <br />
 
-## 💻 Projeto
+## 🚀 How to run the project
 
-O Memory Game é um projeto que simula um jogo da memória via Web, onde é possível ganhar com animação, e reiniciar o jogo. Utilizei como imagens, as tecnologias que já estudei!
+1. Clone the repository to your local machine.
+
+```bash
+$ git clone https://github.com/maarcusvinicius/Memory-Game.git
+```
+
+2. Navigate to the project directory.
+
+```bash
+$ cd Memory-Game
+```
+
+3. Open the `index.html` file in your browser.
+
+4. Watch the shuffled cards on the screen.
+
+5. Click on two cards to reveal their contents.
+
+6. If the cards are the same, they will remain face up.
+
+7. If the cards are different, they will be hidden again.
+
+8. Repeat the process until you find all pairs of cards.
+
+9. Try to complete the game in as few moves as possible.
 
 <br />
-
-## ✅ Objetivo
-
-Utilizei as tecnologias mais PURAS para mostrar certa habilidade, mas ainda quero me aprofundar mais em Javascript para aprimoração de DOM para futuros projetos, acessível e de fácil compreensão!!
-
 <br />
-
-## 🏍️ Roadmap
-
-<br />
-
-    - [x] Criar HTML
-
-    - [x] Criar CSS
-
-    - [x] Criar Javascript
-
-    - [x] Deploy Vercel
-
-<br />
-
 <h4 align="center"> 
-	🚧  Memory Game 🃏 FINALIZADO 🚧
+	🚧  Memory Game 🃏 FINISHED  🚧
 </h4>
 <br />
-
+<br />
+<br />
+<br />
 <br />
 
-Feito com ❤️ por Marcus Vinicius 👋🏽 Entre em contato!
+Made with ❤️ by Marcus Vinicius 👋🏽 Get in touch!
+
+//done readme marcus
 
 
 
@@ -103,27 +104,19 @@ Feito com ❤️ por Marcus Vinicius 👋🏽 Entre em contato!
 
 
 
+### 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img width="40" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">
 
+I'm a Web Developer, a programmer looking to make <br /> a difference in the digital world. [**Personal Site**](https://marcus-dev.vercel.app/) 🚀
 
+#### My current tools
 
+📲 Front-end Mobile with React Native  
+💻 Front-end Web with Reactjs  
+📡 Back-end with Nodejs  
+🔣 Typescript  
+🧰 And more...
 
-
-//feito readme marcus 
-
-
-### Olá, sou Marcus <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
-
-Sou Desenvolvedor Web, um programador procurando fazer a diferença no mundo digital. [**Profile Github**](https://github.com/maarcusvinicius). 🚀
-
-#### Minhas ferramentas atuais
-📲 Front-end Mobile com React Native  
-🌎 Front-end Web com Reactjs  
-📡 Back-end com Nodejs  
-🛠️ Typescript  
-🧰 And more...  
-
-
-#### 💬 Encontre-me em outro lugar
+#### 💬 Find me elsewhere
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcus-vinicius-507718228/)](https://www.linkedin.com/in/marcus-vinicius-507718228/)
 [![Gmail Badge](https://img.shields.io/badge/-marcus.editor77@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcus.editor77@gmail.com)](marcus.editor77@gmail.com)
