@@ -33,11 +33,11 @@ Test yourself!!🔎 https://maarcusvinicius.github.io/MemoryGame/
 
 ## 🎡 Functionalities
 
-- Memory game with shuffled cards.
+- Memory game with shuffled cards
 
-- Animations to highlight correct and incorrect cards.
+- Animations to highlight correct and incorrect cards
 
-- Option to restart the game to challenge the memory again.
+- Option to restart the game to challenge the memory again
 
 <br />
 
@@ -79,6 +79,17 @@ $ cd Memory-Game
 
 9. Try to complete the game in as few moves as possible.
 
+<br />
+
+## License
+
+<p>
+
+This project is licensed under the [MIT License](https://opensource.org/license/mit/). Feel free to use, modify and distribute it as needed.
+
+</p>
+
+<br />
 <br />
 <br />
 <h4 align="center"> 
